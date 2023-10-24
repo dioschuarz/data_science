@@ -10,6 +10,16 @@ In this folder, you will find projects related to Convolutional Neural Networks 
 
 The LLM folder comprises projects related to Large Language Models. These models leverage the power of transformer-based architectures and have shown impressive results in natural language processing tasks, including text generation, sentiment analysis, question answering, and machine translation. Here, you can explore my contributions to developing and utilizing state-of-the-art language models, along with examples of their practical applications.
 
+### 2.1. LLM Studies
+#### 2.1.1. Frameworks
+  - Full Frameworks
+    - Langchain
+    - Griptape
+    - Haystack
+  
+  - Index Frameworks
+  -   Llama Index
+
 ## 3. EDA (Exploratory Data Analysis)
 
 In the EDA folder, you will find projects that focus on Exploratory Data Analysis (EDA). EDA is a crucial step in the data science process, where we examine and visualize the data to gain insights, understand patterns, and identify potential relationships. My EDA projects cover various domains and datasets, demonstrating my proficiency in extracting meaningful information from data.
