@@ -18,7 +18,7 @@ The LLM folder comprises projects related to Large Language Models. These models
     - Haystack
   
   - Index Frameworks
-  -   Llama Index
+    - Llama Index
 
 ## 3. EDA (Exploratory Data Analysis)
 
