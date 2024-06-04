@@ -1,0 +1,9 @@
+crewai==0.28.8
+faiss-cpu==1.8.0
+llama-index==0.10.40
+langchain-google-genai==1.0.3
+langchain-groq==0.1.4
+langchain==0.1.19
+sec-api==1.0.17
+python-dotenv==1.0.0
+unstructured==0.13.7
