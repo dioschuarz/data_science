@@ -166,7 +166,7 @@ summarizer/
 
 ## Application Preview
 
-![Fig1](/figs/app_example.png)
+![Fig1](figs/app_example.png)
 
 ## Running Tests
 
