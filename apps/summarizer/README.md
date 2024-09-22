@@ -164,6 +164,10 @@ summarizer/
     - `://user:password@host:port/wiki_summarizer`
 - **GOOGLE_API_KEY**: The API key for accessing Google services.
 
+## Application Preview
+
+![Fig1](data_science/apps/summarizer/figs/app_example.png)
+
 ## Running Tests
 
 1. **Install test dependencies**:
